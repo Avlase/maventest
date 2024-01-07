@@ -8,7 +8,7 @@
 
     <properties>
         <failsafe.fork.count>1</failsafe.fork.count>
-        <java.version>1.8</java.version>
+        <java.version>21.0.1</java.version>
         <maven.build.timestamp.format>yyyy-MM-dd-HHmm</maven.build.timestamp.format>
         <encoding>UTF-8</encoding>
         <project.build.sourceEncoding>${encoding}</project.build.sourceEncoding>
